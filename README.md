@@ -10,9 +10,7 @@
 `mkdir3000` is a futuristic inspired terminal dark theme.
 It uses strong contrast bold colors that makes it easy to scan and spot what's needed.
 
-## Install
-
-**iTerm2**
+## Install on iTerm2
 ```
 curl -O https://raw.githubusercontent.com/ttt30ga/mkdir3000/main/mkdir3000.itermcolors
 ```
@@ -21,7 +19,7 @@ curl -O https://raw.githubusercontent.com/ttt30ga/mkdir3000/main/mkdir3000.iterm
 - Go to `iTerm2 > Preferences > Profiles > Colors`
 - Select `mkdir3000`
 
-**Terminal.app**
+## Install on Terminal.app
 ```
 curl -O https://raw.githubusercontent.com/ttt30ga/mkdir3000/main/mkdir3000.terminal
 ```
