@@ -1,4 +1,4 @@
-<div align="center" style="margin: 12px">
+<div align="center" style="margin: 80px">
 	<img src="images/mkdir3000Icon.png" width="200">
 </div>
 
