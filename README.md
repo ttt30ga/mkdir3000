@@ -3,11 +3,11 @@
 </div>
 
 # mkdir3000
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?color=00c5ff&style=flat-square)](https://lbesson.mit-license.org/)
 
 **Dark theme for the Terminal**
 
-`mkdir3000` is a futuristic inspired terminal dark theme.
+`mkdir3000` is a futuristic inspired terminal dark theme.\
 It uses strong contrast bold colors that makes it easy to scan and spot what's needed.
 
 ## Install on iTerm2
