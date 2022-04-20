@@ -31,6 +31,8 @@ curl -O https://raw.githubusercontent.com/ttt30ga/mkdir3000/main/mkdir3000.termi
 - Select `mkdir3000`
 - Click `Default`
 
+---
+
 ## iTerm2
 ![iTerm2-01](images/mkdir3000-iTerm2-01.png)
 ![iTerm2-02](images/mkdir3000-iTerm2-02.png)
